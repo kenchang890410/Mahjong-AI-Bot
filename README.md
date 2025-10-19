@@ -2,7 +2,7 @@
 
 這個程式的目的為在三人日本麻將中**測試與學習輔助**使用最佳捨牌策略
 
-使用 Python 開發，搭配 mahjong_utils 函式庫做最佳化捨牌、OpenCV 影像處理、mss 螢幕擷取、pyautogui 自動化操作，達成全自動麻將機器人功能
+使用 Python 開發，搭配 mahjong_utils 函式庫做最佳化捨牌、OpenCV 影像處理、mss 螢幕擷取、pyautogui 自動化操作。
 
 實現的功能流程為:
 
